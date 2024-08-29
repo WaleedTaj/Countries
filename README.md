@@ -21,7 +21,7 @@ A Flutter app that showcases a list of countries, including their flags, capital
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/WaleedTaj/navigation_and_routing.git
- ```
+   ```
 2. **Install Dependencies**:
    ```bash
    flutter pub get
@@ -29,4 +29,11 @@ A Flutter app that showcases a list of countries, including their flags, capital
 3. **Run the App**:
    ```bash
    flutter run
-   ```
+   
+## 🛠️ Built With
+
+- **Flutter**: UI toolkit for building natively compiled applications.
+- **Dart**: Programming language optimized for building mobile apps.
+
+---
+
