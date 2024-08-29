@@ -21,3 +21,12 @@ A Flutter app that showcases a list of countries, including their flags, capital
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/WaleedTaj/navigation_and_routing.git
+ ```
+2. **Install Dependencies**:
+   ```bash
+   flutter pub get
+   ```
+3. **Run the App**:
+   ```bash
+   flutter run
+   ```
