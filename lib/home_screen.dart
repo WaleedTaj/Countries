@@ -233,6 +233,14 @@ class _HomeScreenState extends State<HomeScreen> {
       "Message": "I hope this is helpful! 🤗"
     },
     {
+      "Flag": "🇨🇮",
+      "Country": "Côte d'Ivoire (Ivory Coast)",
+      "Capital": "The Capital of Ivory Coast (Côte d'Ivoire) is Yamoussoukro",
+      "Explanation":
+          "Located in West Africa, Ivory Coast is a country of diverse landscapes, rich culture, and a vibrant economy. From the bustling city of Abidjan to the rainforests and beaches, Ivory Coast offers a blend of modernity, tradition, and natural beauty.",
+      "Message": "I hope this is helpful! 🤗"
+    },
+    {
       "Flag": "🇨🇻",
       "Country": "Cabo Verde",
       "Capital": "The Capital of Cabo Verde is Praia",
@@ -281,7 +289,7 @@ class _HomeScreenState extends State<HomeScreen> {
       "Message": "I hope this is helpful! 🤗"
     },
     {
-      "Flag": "🇨🇭",
+      "Flag": "🇨🇱",
       "Country": "Chile",
       "Capital": "The Capital of Chile is Santiago",
       "Explanation":
@@ -311,22 +319,6 @@ class _HomeScreenState extends State<HomeScreen> {
       "Explanation":
           "An archipelago of volcanic islands in the Indian Ocean, Comoros is known for its beautiful beaches, lush landscapes, and unique blend of Arab, African, and French influences. With a rich cultural heritage and a relaxed atmosphere, Comoros offers a tranquil escape in the tropics.",
       "Message": "I hope this is helpful! 🤗"
-    },
-    {
-      "Flag": "🇨🇩",
-      "Country": "Democratic Republic of the Congo",
-      "Capital": "The Capital of Democratic Republic of the Congo is Kinshasa",
-      "Explanation":
-          "Located in Central Africa, the Democratic Republic of the Congo is a vast country with dense rainforests, abundant wildlife, and a rich cultural heritage. Despite facing political and economic challenges, the Democratic Republic of the Congo is striving for stability and development, showcasing the resilience of its people.",
-      "Message": "I hope this is helpful! 🤗"
-    },
-    {
-      "Flag": "🇨🇬",
-      "Country": "Republic of the Congo",
-      "Capital": "The Capital of Republic of the Congo is Brazzaville",
-      "Explanation":
-          "Located in Central Africa, the Republic of the Congo is a country of diverse landscapes, rich biodiversity, and a vibrant cultural heritage. From the rainforests of the Congo Basin to the bustling capital of Brazzaville, the Republic of the Congo offers a unique blend of nature and culture.",
-      "Message": "I hope this is helpful! 🤗",
     },
     {
       "Flag": "🇨🇷",
@@ -362,10 +354,18 @@ class _HomeScreenState extends State<HomeScreen> {
     },
     {
       "Flag": "🇨🇿",
-      "Country": "Czech Republic (Czechia)",
+      "Country": "Czechia (Czech Republic)",
       "Capital": "The Capital of Czech Republic (Czechia) is Prague",
       "Explanation":
           "Located in Central Europe, the Czech Republic is known for its stunning castles, medieval cities,and rich cultural heritage. From the fairytale city of Prague to the historic towns of Český Krumlov and Kutná Hora, the Czech Republic offers a blend of history, architecture, and beer culture.",
+      "Message": "I hope this is helpful! 🤗"
+    },
+    {
+      "Flag": "🇨🇩",
+      "Country": "Democratic Republic of the Congo (DRC)",
+      "Capital": "The Capital of Democratic Republic of the Congo is Kinshasa",
+      "Explanation":
+          "Located in Central Africa, the Democratic Republic of the Congo is a vast country with dense rainforests, abundant wildlife, and a rich cultural heritage. Despite facing political and economic challenges, the Democratic Republic of the Congo is striving for stability and development, showcasing the resilience of its people.",
       "Message": "I hope this is helpful! 🤗"
     },
     {
@@ -398,14 +398,6 @@ class _HomeScreenState extends State<HomeScreen> {
       "Capital": "The Capital of Dominican Republic is Santo Domingo",
       "Explanation":
           "Located on the island of Hispaniola in the Caribbean, the Dominican Republic is known for its beautiful beaches, lush landscapes, and vibrant culture. From the colonial city of Santo Domingo to the resorts of Punta Cana, the Dominican Republic offers a blend of relaxation, adventure, and historical significance.",
-      "Message": "I hope this is helpful! 🤗"
-    },
-    {
-      "Flag": "🇹🇱",
-      "Country": "East Timor (Timor-Leste)",
-      "Capital": "The Capital of East Timor (Timor-Leste) is Dili",
-      "Explanation":
-          "Located in Southeast Asia, East Timor is a young nation with a rich cultural heritage and stunning natural beauty. From the mountainous interior to the coral reefs along its coast, East Timor offers a blend of adventure, cultural exploration, and historical significance.",
       "Message": "I hope this is helpful! 🤗"
     },
     {
@@ -553,7 +545,7 @@ class _HomeScreenState extends State<HomeScreen> {
       "Message": "I hope this is helpful! 🤗"
     },
     {
-      "Flag": "🇵🇪",
+      "Flag": "🇬🇹",
       "Country": "Guatemala",
       "Capital": "The Capital of Guatemala is Guatemala City",
       "Explanation":
@@ -590,6 +582,14 @@ class _HomeScreenState extends State<HomeScreen> {
       "Capital": "The Capital of Haiti is Port-au-Prince",
       "Explanation":
           "Located on the island of Hispaniola in the Caribbean, Haiti is a country with a rich history, vibrant culture, and resilient people. Despite facing numerous challenges, Haiti is known for its art, music, and unique blend of African and French influences.",
+      "Message": "I hope this is helpful! 🤗"
+    },
+    {
+      "Flag": "🇻🇦",
+      "Country": "Holy See (Vatican City)",
+      "Capital": "The Capital of Vatican City (Holy See) is Vatican City",
+      "Explanation":
+          "An independent city-state located within Rome, Vatican City is the smallest country in the world and the spiritual center of the Catholic Church. Home to St. Peter's Basilica, the Vatican Museums, and the Sistine Chapel, Vatican City is a treasure trove of art, history, and religious significance.",
       "Message": "I hope this is helpful! 🤗"
     },
     {
@@ -658,7 +658,7 @@ class _HomeScreenState extends State<HomeScreen> {
     },
     {
       "Flag": "🇮🇱",
-      "Country": "Israel",
+      "Country": "Israel👟",
       "Capital": "The Capital of Israel is Jerusalem",
       "Explanation":
           "Located in the Middle East, Israel is a country of historical and religious significance, with a diverse population and a dynamic culture. From the holy city of Jerusalem to the beaches of Tel Aviv, Israel offers a blend of ancient history, modern innovation, and cultural exploration.",
@@ -670,14 +670,6 @@ class _HomeScreenState extends State<HomeScreen> {
       "Capital": "The Capital of Italy is Rome",
       "Explanation":
           "A country renowned for its art, fashion, cuisine, and history, Italy is a cultural treasure trove. From the ancient ruins of Rome to the canals of Venice and the fashion capital of Milan, Italy offers a captivating blend of history, culture, and natural beauty.",
-      "Message": "I hope this is helpful! 🤗"
-    },
-    {
-      "Flag": "🇨🇮",
-      "Country": "Ivory Coast (Côte d'Ivoire)",
-      "Capital": "The Capital of Ivory Coast (Côte d'Ivoire) is Yamoussoukro",
-      "Explanation":
-          "Located in West Africa, Ivory Coast is a country of diverse landscapes, rich culture, and a vibrant economy. From the bustling city of Abidjan to the rainforests and beaches, Ivory Coast offers a blend of modernity, tradition, and natural beauty.",
       "Message": "I hope this is helpful! 🤗"
     },
     {
@@ -721,27 +713,11 @@ class _HomeScreenState extends State<HomeScreen> {
       "Message": "I hope this is helpful! 🤗"
     },
     {
-      "Flag": "🇰🇲",
+      "Flag": "🇰🇮",
       "Country": "Kiribati",
       "Capital": "The Capital of Kiribati is South Tarawa",
       "Explanation":
           "An island nation in the central Pacific Ocean, Kiribati is known for its pristine beaches, diverse marine life, and unique culture. With a focus on sustainable development and climate change resilience, Kiribati offers a glimpse into island life and the challenges faced by small island developing states.",
-      "Message": "I hope this is helpful! 🤗"
-    },
-    {
-      "Flag": "🇰🇵",
-      "Country": "North Korea",
-      "Capital": "The Capital of North Korea is Pyongyang",
-      "Explanation":
-          "Located in East Asia, North Korea is a country with a unique political system and a distinct cultural identity. While access is limited, North Korea offers a glimpse into a different way of life and a chance to learn about its history and culture.",
-      "Message": "I hope this is helpful! 🤗"
-    },
-    {
-      "Flag": "🇰🇷",
-      "Country": "South Korea",
-      "Capital": "The Capital of South Korea is Seoul",
-      "Explanation":
-          "Located in East Asia, South Korea is a country of technological innovation, vibrant culture, and stunning natural beauty. From the bustling metropolis of Seoul to the historical palaces and temples, South Korea offers a blend of modernity, tradition, and cultural exploration.",
       "Message": "I hope this is helpful! 🤗"
     },
     {
@@ -889,7 +865,7 @@ class _HomeScreenState extends State<HomeScreen> {
       "Message": "I hope this is helpful! 🤗"
     },
     {
-      "Flag": "🇲🇲",
+      "Flag": "🇲🇭",
       "Country": "Marshall Islands",
       "Capital": "The Capital of Marshall Islands is Majuro",
       "Explanation":
@@ -921,7 +897,7 @@ class _HomeScreenState extends State<HomeScreen> {
       "Message": "I hope this is helpful! 🤗"
     },
     {
-      "Flag": "🇲🇵",
+      "Flag": "🇫🇲",
       "Country": "Micronesia",
       "Capital": "The Capital of Micronesia is Palikir",
       "Explanation":
@@ -953,7 +929,7 @@ class _HomeScreenState extends State<HomeScreen> {
       "Message": "I hope this is helpful! 🤗"
     },
     {
-      "Flag": "🇲🇲",
+      "Flag": "🇲🇪",
       "Country": "Montenegro",
       "Capital": "The Capital of Montenegro is Podgorica",
       "Explanation":
@@ -1046,6 +1022,14 @@ class _HomeScreenState extends State<HomeScreen> {
       "Capital": "The Capital of Nigeria is Abuja",
       "Explanation":
           "The most populous country in Africa, Nigeria is a land of diverse cultures, bustling cities, and a rich artistic heritage. From the bustling metropolis of Lagos to the ancient city of Kano and the Nollywood film industry, Nigeria offers a blend of modernity, tradition, and cultural dynamism.",
+      "Message": "I hope this is helpful! 🤗"
+    },
+    {
+      "Flag": "🇰🇵",
+      "Country": "North Korea (DPRK)",
+      "Capital": "The Capital of North Korea is Pyongyang",
+      "Explanation":
+          "Located in East Asia, North Korea is a country with a unique political system and a distinct cultural identity. While access is limited, North Korea offers a glimpse into a different way of life and a chance to learn about its history and culture.",
       "Message": "I hope this is helpful! 🤗"
     },
     {
@@ -1161,6 +1145,14 @@ class _HomeScreenState extends State<HomeScreen> {
       "Message": "I hope this is helpful! 🤗"
     },
     {
+      "Flag": "🇨🇬",
+      "Country": "Republic of the Congo",
+      "Capital": "The Capital of Republic of the Congo is Brazzaville",
+      "Explanation":
+          "Located in Central Africa, the Republic of the Congo is a country of diverse landscapes, rich biodiversity, and a vibrant cultural heritage. From the rainforests of the Congo Basin to the bustling capital of Brazzaville, the Republic of the Congo offers a unique blend of nature and culture.",
+      "Message": "I hope this is helpful! 🤗",
+    },
+    {
       "Flag": "🇷🇴",
       "Country": "Romania",
       "Capital": "The Capital of Romania is Bucharest",
@@ -1233,7 +1225,7 @@ class _HomeScreenState extends State<HomeScreen> {
       "Message": "I hope this is helpful! 🤗"
     },
     {
-      "Flag": "🇸🇹",
+      "Flag": "🇸🇦",
       "Country": "Saudi Arabia",
       "Capital": "The Capital of Saudi Arabia is Riyadh",
       "Explanation":
@@ -1257,7 +1249,7 @@ class _HomeScreenState extends State<HomeScreen> {
       "Message": "I hope this is helpful! 🤗"
     },
     {
-      "Flag": "🇱🇸",
+      "Flag": "🇸🇨",
       "Country": "Seychelles",
       "Capital": "The Capital of Seychelles is Victoria",
       "Explanation":
@@ -1265,7 +1257,7 @@ class _HomeScreenState extends State<HomeScreen> {
       "Message": "I hope this is helpful! 🤗"
     },
     {
-      "Flag": "🇱🇸",
+      "Flag": "🇸🇱",
       "Country": "Sierra Leone",
       "Capital": "The Capital of Sierra Leone is Freetown",
       "Explanation":
@@ -1305,7 +1297,7 @@ class _HomeScreenState extends State<HomeScreen> {
       "Message": "I hope this is helpful! 🤗"
     },
     {
-      "Flag": "🇲🇿",
+      "Flag": "🇸🇴",
       "Country": "Somalia",
       "Capital": "The Capital of Somalia is Mogadishu",
       "Explanation":
@@ -1318,6 +1310,14 @@ class _HomeScreenState extends State<HomeScreen> {
       "Capital": "The Capital of South Africa is Pretoria",
       "Explanation":
           "Located at the southern tip of Africa, South Africa is a country of diverse landscapes, vibrant cities, and a rich cultural heritage. From Table Mountain in Cape Town to the Kruger National Park and the historical sites of Johannesburg, South Africa offers a blend of nature, culture, and history.",
+      "Message": "I hope this is helpful! 🤗"
+    },
+    {
+      "Flag": "🇰🇷",
+      "Country": "South Korea",
+      "Capital": "The Capital of South Korea is Seoul",
+      "Explanation":
+          "Located in East Asia, South Korea is a country of technological innovation, vibrant culture, and stunning natural beauty. From the bustling metropolis of Seoul to the historical palaces and temples, South Korea offers a blend of modernity, tradition, and cultural exploration.",
       "Message": "I hope this is helpful! 🤗"
     },
     {
@@ -1417,6 +1417,14 @@ class _HomeScreenState extends State<HomeScreen> {
       "Message": "I hope this is helpful! 🤗"
     },
     {
+      "Flag": "🇹🇱",
+      "Country": "Timor-Leste (East Timor)",
+      "Capital": "The Capital of East Timor (Timor-Leste) is Dili",
+      "Explanation":
+          "Located in Southeast Asia, East Timor is a young nation with a rich cultural heritage and stunning natural beauty. From the mountainous interior to the coral reefs along its coast, East Timor offers a blend of adventure, cultural exploration, and historical significance.",
+      "Message": "I hope this is helpful! 🤗"
+    },
+    {
       "Flag": "🇹🇬",
       "Country": "Togo",
       "Capital": "The Capital of Togo is Lomé",
@@ -1490,7 +1498,7 @@ class _HomeScreenState extends State<HomeScreen> {
     },
     {
       "Flag": "🇦🇪",
-      "Country": "United Arab Emirates",
+      "Country": "United Arab Emirates (UAE)",
       "Capital": "The Capital of United Arab Emirates is Abu Dhabi",
       "Explanation":
           "Located on the Arabian Peninsula, the United Arab Emirates is a federation of seven emirates known for its modern cities, luxurious lifestyle, and vast deserts. From the towering skyscrapers of Dubai to the cultural heritage of Abu Dhabi and the beaches of Sharjah, the UAE offers a blend of modernity, tradition, and adventure.",
@@ -1498,7 +1506,7 @@ class _HomeScreenState extends State<HomeScreen> {
     },
     {
       "Flag": "🇬🇧",
-      "Country": "United Kingdom",
+      "Country": "United Kingdom (UK)",
       "Capital": "The Capital of United Kingdom is London",
       "Explanation":
           "Located in Western Europe, the United Kingdom is a country with a rich history, diverse culture, and a global influence. From the bustling metropolis of London to the historical castles of Scotland and the rolling hills of England, the UK offers a blend of modernity, tradition, and cultural exploration.",
@@ -1506,7 +1514,7 @@ class _HomeScreenState extends State<HomeScreen> {
     },
     {
       "Flag": "🇺🇸",
-      "Country": "United States of America",
+      "Country": "United States of America (USA)",
       "Capital": "The Capital of United States of America is Washington, D.C.",
       "Explanation":
           "A vast country in North America, the United States is a melting pot of cultures, landscapes, and experiences. From the bustling cities of New York and Los Angeles to the natural wonders of Yellow stone and the Grand Canyon, the USA offers a diverse range of attractions and opportunities.",
@@ -1534,14 +1542,6 @@ class _HomeScreenState extends State<HomeScreen> {
       "Capital": "The Capital of Vanuatu is Port Vila",
       "Explanation":
           "An archipelago of islands in the South Pacific, Vanuatu is known for its active volcanoes, pristine beaches, and unique cultural traditions. From the Yasur volcano on Tanna Island to the underwater post office in Hideaway Island and the cultural villages of Espiritu Santo, Vanuatu offers a blend of adventure, relaxation, and cultural immersion.",
-      "Message": "I hope this is helpful! 🤗"
-    },
-    {
-      "Flag": "🇻🇦",
-      "Country": "Vatican City (Holy See)",
-      "Capital": "The Capital of Vatican City (Holy See) is Vatican City",
-      "Explanation":
-          "An independent city-state located within Rome, Vatican City is the smallest country in the world and the spiritual center of the Catholic Church. Home to St. Peter's Basilica, the Vatican Museums, and the Sistine Chapel, Vatican City is a treasure trove of art, history, and religious significance.",
       "Message": "I hope this is helpful! 🤗"
     },
     {
@@ -1710,7 +1710,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       child: ListTile(
                         leading: Text(
                           filteredCountries[index]['Flag']!,
-                          style: TextStyle(fontSize: height * 0.035),
+                          style: TextStyle(fontSize: height * 0.04),
                         ),
                         contentPadding: EdgeInsets.all(
                             height * 0.02), // Padding inside the ListTile
