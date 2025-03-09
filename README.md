@@ -13,7 +13,7 @@ A Flutter app that showcases a list of countries, including their flags, capital
 
 ## 📸 Screenshots
 
-<img src="https://github.com/WaleedTaj/navigation_and_routing/blob/main/assets/images/Screenshot_1.png" width="200" style="margin-right: 20px;"/> <img src="https://github.com/WaleedTaj/navigation_and_routing/blob/main/assets/images/Screenshot_2.png" width="200"/> <img src="https://github.com/WaleedTaj/navigation_and_routing/blob/main/assets/images/Screenshot_3.png" width="200"/>
+<img src="https://github.com/WaleedTaj/Countries/blob/main/assets/images/Screenshot_1.png" width="200" style="margin-right: 20px;"/> <img src="https://github.com/WaleedTaj/Countries/blob/main/assets/images/Screenshot_2.png" width="200"/> <img src="https://github.com/WaleedTaj/Countries/blob/main/assets/images/Screenshot_3.png" width="200"/>
 
 
 ## 🚀 Getting Started
