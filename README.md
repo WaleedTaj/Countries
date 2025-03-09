@@ -1,5 +1,6 @@
 # Countries
 
+# Overview
 A Flutter app that showcases a list of countries, including their flags, capitals, and brief descriptions. The app features navigation and routing to detail screens for an enhanced user experience.
 
 ## 📱 Features
@@ -21,7 +22,7 @@ A Flutter app that showcases a list of countries, including their flags, capital
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/WaleedTaj/navigation_and_routing.git
+   git clone https://github.com/WaleedTaj/Countries.git
    ```
 2. **Install Dependencies**:
    ```bash
