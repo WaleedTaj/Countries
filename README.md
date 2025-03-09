@@ -1,4 +1,4 @@
-# navigation_and_routing
+# Countries
 
 A Flutter app that showcases a list of countries, including their flags, capitals, and brief descriptions. The app features navigation and routing to detail screens for an enhanced user experience.
 
